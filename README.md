@@ -43,8 +43,8 @@ This project recreates the core layout and interactions of Google's homepage, in
 Clone the repo and open `index.html` in your browser — no build steps or dependencies required.
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone git@github.com:Bunyodbek00/my-google-homepage.git
+cd html-css-google-homepage
 open index.html
 ```
 
