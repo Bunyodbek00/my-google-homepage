@@ -44,7 +44,6 @@ Clone the repo and open `index.html` in your browser — no build steps or depen
 
 ```bash
 git clone git@github.com:Bunyodbek00/my-google-homepage.git
-cd html-css-google-homepage
 open index.html
 ```
 
